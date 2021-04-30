@@ -21,7 +21,7 @@ class _SplashState extends State<Splash> {
           Navigator.pushNamed(context, '/second');
         },
         child: Center(
-          child: Logo(h:300,w:300,s:"VISION",f:100,),
+          child: Logo(h:300,w:300,s:"VISION",f:80,),
         ),
       ),
     );
